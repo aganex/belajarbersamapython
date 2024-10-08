@@ -1,0 +1,13 @@
+# Program sederhana untuk menentukan apakah seseorang bisa membeli tiket bioskop berdasarkan usia
+
+# Input usia pengguna
+usia = int(input("Masukkan usia Anda: "))
+
+# Aturan usia
+usia_minimum = 17
+
+# Kondisi untuk memeriksa apakah usia pengguna mencukupi
+if usia >= usia_minimum:
+    print("Anda boleh membeli tiket bioskop untuk film ini.")
+else:
+    print("Maaf, usia Anda belum mencukupi untuk membeli tiket bioskop film ini.")
