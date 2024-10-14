@@ -1,0 +1,5 @@
+a = float(input("Masukan Gross : "))
+d = 144
+c = a * d
+
+print("Cetak Buah :", c)
