@@ -12,3 +12,5 @@ g = e + f
 h = a - g
 
 print(f"Sisa uang Ibu adalah Rp {h:.2f}")
+
+print("helloworld")
