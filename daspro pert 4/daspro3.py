@@ -11,4 +11,4 @@ if bilangan > 0:
 elif bilangan == 0:
   print("Nol")
 else:
-  print("Bilangan negatif")
+  print("Bilangan negatif")y
