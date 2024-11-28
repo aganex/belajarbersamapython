@@ -1,0 +1,7 @@
+
+def print_string( str ):
+    """Menampilkan argumen string str ke layar""" 
+    print (str)
+# Kita memanggil fungsi dengan kata kunci print_string str = "Hello Python")
+
+print_string(str="hello python")
